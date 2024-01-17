@@ -1,5 +1,5 @@
 # SuperMarket_optimizstion
-This Code demonstrates the normal working of an Apyori algorithm on market basket. This Algorithm is used to gain insights on cases like "people who liked this also liked" and strategize the advertising and placement of certaing items in a Super Market.
+This Repo contains the apriori.py file that demonstrates the normal working of an Apyori algorithm on market basket. This Algorithm is used to gain insights on cases like "people who liked this also liked" and strategize the advertising and placement of certaing items in a Super Market.
 The code works on a dataset tha contains the data on what did customers chekout with from a Super Market. 
 The model analyses and store the result in a pandas dataframe. The result shows the relation of various items with each other, this is quantized as support, confidence and lift.
 Here Support means: refers to the frequency or proportion of transactions in a dataset that contain a particular itemset. For the Apriori algorithm, support is a crucial metric used to identify the significance of an itemset.
